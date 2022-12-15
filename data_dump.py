@@ -8,7 +8,7 @@ data_file_path="/config/workspace/aps_failure_training_set1.csv"
 
 Database_name="apsinfo"
 Collection_name="sensors"
-
+#### for debiggint purpose. dont consider this line
 
 if __name__=="__main__":
     df=pd.read_csv(data_file_path)
