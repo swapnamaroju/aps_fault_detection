@@ -17,6 +17,6 @@ setup(
     author="ineuron",
     author_email="swapnamaroju44@gmail.com", 
     packages=find_packages(), 
-    install_requires=get_requirements()
+    install_requires=get_requirements(),
 )
     
