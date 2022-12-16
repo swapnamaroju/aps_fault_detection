@@ -1,7 +1,7 @@
-<<<<<<< HEAD
-pymongo
+
+
 pandas
-=======
+
 dill==0.3.5.1
 dnspython==2.2.1
 fastapi==0.78.0
@@ -19,4 +19,4 @@ wincertstore==0.2
 xgboost==1.6.
 #add new libraries
 -e .
->>>>>>> new_update
+
